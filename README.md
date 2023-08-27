@@ -1,7 +1,13 @@
-- 👋 Hi, I’ am Mohit Kumar I am persuing MCA from GLA University Mathura Uttar Pradesh India.
+- 👋 Hi, I’ am Mohit Kumar I am pursuing MCA from GLA University Mathura Uttar Pradesh India.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full stack development, and some new technologiies 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ My Top skills :
+                     J2EE Application Development
+                     Node.js
+                     Python (Programming Language) 
+                     DSA 
+                     MySQL
+                     PHP
 - 📫 How to reach me ... Mob : +918868817068, Email : msraghav47@gmail.com
 
 <!---
