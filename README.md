@@ -2,11 +2,11 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full stack development, and some new technologiies 
 - 💞️ My Top skills :
-                     J2EE Application Development
-                     Node.js
-                     Python (Programming Language) 
-                     DSA 
-                     MySQL
+                     J2EE Application Development, 
+                     Node.js, 
+                     Python (Programming Language), 
+                     DSA,  
+                     MySQL, 
                      PHP
 - 📫 How to reach me ... Mob : +918868817068, Email : msraghav47@gmail.com
 
