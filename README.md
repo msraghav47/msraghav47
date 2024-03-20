@@ -2,7 +2,9 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Full stack development, and some new technologiies 
 - 💞️ My Top skills :
-                     J2EE Application Development, 
+                     J2EE Application Development,
+                     React,
+                     Java,
                      Node.js, 
                      Python (Programming Language), 
                      DSA,  
