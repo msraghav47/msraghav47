@@ -1,15 +1,14 @@
-- 👋 Hi, I’ am Mohit Kumar, I am pursuing MCA from GLA University Mathura Uttar Pradesh India.
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Full stack development, and some new technologiies 
+- 👋 Hi, I’ am Mohit Kumar, I am a Salesforce Developer.
+- 👀 I am currently working in Astrea It Services Noida, Uttar Pradesh. 
 - 💞️ My Top skills :
-                     J2EE Application Development,
-                     React,
-                     Java,
-                     Node.js, 
-                     Python (Programming Language), 
-                     DSA,  
-                     MySQL, 
-                     PHP
+                     Apex Class & Triggers,
+                     Sales Cloud & Service Cloud,
+                     Salesforce Flows, Process Builder & Workflows,
+                     Reports & Dashboard in Salesforce, 
+                     LWC & AURA, 
+                     SOQL & SOSL,  
+                     HTML, CSS & Javascript, 
+                     JAVA & Python
 - 📫 How to reach me ... Mob : +918868817068, Email : msraghav47@gmail.com
 
 <!---
